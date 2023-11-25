@@ -1262,3 +1262,7 @@ section#about {
   align-items: center;
   background-color: #161718;
 }
+
+.clients img {
+  height: 50px;
+}
