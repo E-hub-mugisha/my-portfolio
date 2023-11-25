@@ -2,12 +2,12 @@ import React from 'react'
 
 export const Footer = () => {
   return (
-    <footer class="bg-dark dark:bg-gray-900">
+    <footer>
     <div class="container px-6 py-12 mx-auto">
         
         <hr class="my-6 border-gray-200 md:my-8 dark:border-gray-700"/>
         
-        <div class="flex items-center justify-between">
+        <div class="flex  justify-between">
             <a href="#">
                 <img class="w-auto h-7" src="https://merakiui.com/images/full-logo.svg" alt=""/>
             </a>

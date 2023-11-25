@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Rwanda NCD Alliance",
     subtitle: "MERN Stack",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://github.com/E-hub-mugisha",
+    image: "./assets/img/portfolio/rwandancda.png",
+    link: "https://www.rwandancda.org/",
   },
   {
     title: "React Tracks",
