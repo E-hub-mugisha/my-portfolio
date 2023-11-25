@@ -9,7 +9,7 @@ export const Footer = () => {
         
         <div class="flex  justify-between">
             <a href="#">
-                <img class="w-auto h-7" src="https://merakiui.com/images/full-logo.svg" alt=""/>
+                <h3>Eric's</h3>
             </a>
 
             <small className="ms-2">&copy; Eric Mugisha, 2023. All rights reserved.</small>
