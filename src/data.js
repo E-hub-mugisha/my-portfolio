@@ -71,11 +71,7 @@ export const clients = [
     link: "https://www.rwandancda.org"
   },
   {
-    image: "https://www.homiez.rw/assets/img/favicon.png",
+    image: "./assets/img/blank-logo-trans.png",
     name: "blank"
   },
-  {
-    image: "https://www.homiez.rw/assets/img/favicon.png",
-    name: "homiez"
-  }
 ];

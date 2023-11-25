@@ -608,6 +608,7 @@ section#about {
 --------------------------------------------------------------*/
 .testimonials {
   margin-top: 80px;
+  padding: 4rem;
 }
 
 .testimonials .testimonial-item {
@@ -1265,4 +1266,8 @@ section#about {
 
 .clients img {
   height: 50px;
+}
+
+.services{
+  padding: 4rem 2rem;
 }

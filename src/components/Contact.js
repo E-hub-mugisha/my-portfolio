@@ -35,10 +35,10 @@ export default function Contact() {
             <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
                 Hire Me
               </h2>
-              <p className="leading-relaxed mb-5">
+              {/* <p className="leading-relaxed mb-5">
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
                 suscipit officia aspernatur veritatis. Asperiores, aliquid?
-              </p>
+              </p> */}
               <div className=" px-6">
                 <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                   ADDRESS

@@ -15,32 +15,24 @@ export const Services = () => {
           <div class="col-xl-3 col-md-6 d-flex">
             <div class="service-item position-relative">
               <i class="bi bi-activity"></i>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="" class="stretched-link">web development</a></h4>
+              {/* <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p> */}
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex">
             <div class="service-item position-relative">
               <i class="bi bi-bounding-box-circles"></i>
-              <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="" class="stretched-link">Hosting services</a></h4>
+              {/* <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p> */}
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex">
             <div class="service-item position-relative">
               <i class="bi bi-calendar4-week"></i>
-              <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-md-6 d-flex">
-            <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="" class="stretched-link">Data analysis</a></h4>
+              {/* <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p> */}
             </div>
           </div>
 
