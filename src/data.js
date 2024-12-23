@@ -102,4 +102,14 @@ export const clients = [
     name: "rwanda diabetes association",
     link: "https://rwandadiabetes.rw"
   },
+  {
+    image: "https://atprwanda.com/assets/img/logo/atpr_logo.png",
+    name: "The Association des Transporteurs des Personnes au Rwanda.",
+    link: "https://atprwanda.com"
+  },
+  {
+    image: "https://healthyliving.rw/assets/images/logo/logo.png",
+    name: "healthy living organization",
+    link: "https://healthyliving.rw"
+  },
 ];
