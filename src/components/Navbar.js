@@ -16,11 +16,12 @@ export default function Navbar() {
 
       <nav id="navbar" className="navbar">
         <ul>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#skills">Skills</a></li>
-          <li><a href="#project">Projects</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#about">Who I am</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#services">What I do</a></li>
+          <li><a href="#skills">Tools</a></li>
+          <li><a href="#project">Portfolio</a></li>
+          <li><a href="#contact">Let's Talk</a></li>
         </ul>
       </nav>
 
