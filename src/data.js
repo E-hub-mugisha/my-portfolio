@@ -1,35 +1,51 @@
 export const projects = [
   {
     title: "Rwanda NCD Alliance",
-    subtitle: "MERN Stack",
+    subtitle: "Rwanda Non-Communicable Disease Alliance",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Rwanda Non-Communicable Diseases Alliance is a unique civil society network, founded in 2016 and uniting 25 organizations ( NCDs Patients, health care professionals and youth-led organizations and private institutions) working on NCDs in Rwanda.",
     image: "./assets/img/portfolio/rncda.png",
     link: "https://www.rwandancda.org/",
   },
   {
-    title: "Blank Mavin",
-    subtitle: "React and Python",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./assets/img/portfolio/blank.png",
-    link: "https://blank.rw",
-  },
-  {
     title: "Homiez",
-    subtitle: "React and Firebase",
+    subtitle: "Shine your ways",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "We Create visuals that engage offer and include esteem to your brand.If you’re seeking quality pictures,recordings,and appealing web plans,you've got at long last to come to the correct put.",
     image: "./assets/img/portfolio/homiez.png",
     link: "https://homiez.rw",
   },
   {
     title: "connector",
-    subtitle: "React Hooks",
+    subtitle: "online booking system and management",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "We are an online booking system and management tool designed to help service providers to control, run, grow and manage their business better while customers find & book their favorite services online no matter where they are or when they want to book. Our goal is to easily connect service providers ready to work, with people who need work done.",
     image: "./assets/img/portfolio/connector.png",
-    link: "https://github.com/E-hub-mugisha",
+    link: "https://connector.rw/",
+  },
+  {
+    title: "Healthy living",
+    subtitle: "The Healthy Living Organization",
+    description:
+      "The Healthy Living Organization (HLO) is a reputable non-profit organization dedicated to promoting health and well-being in communities. ",
+    image: "./assets/img/portfolio/healthy.png",
+    link: "https://healthyliving.rw/",
+  },
+  {
+    title: "DDIN",
+    subtitle: "The network of the best",
+    description:
+      "DDIN serves as a management platform for a network of independent agents located throughout the country. We bring together various services offered by different institutions, organizations or companies onto a single platform",
+    image: "./assets/img/portfolio/ddin.png",
+    link: "https://ddin.rw/",
+  },
+  {
+    title: "ATPR",
+    subtitle: "The Association des Transporteurs des Personnes au Rwanda.",
+    description:
+      "The association aims to advance the standards of public transport and foster cooperation among transporters in Rwanda and the East African Community (EAC).",
+    image: "./assets/img/portfolio/atpr.png",
+    link: "https://atprwanda.com/",
   },
 ];
 
