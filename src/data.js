@@ -70,9 +70,10 @@ export const skills = [
   "JavaScript",
   "React",
   "Laravel",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "PHP",
+  "MySQL",
+  "Bootstrap",
+  "Graphic design & Photoshop"
 ];
 
 export const clients = [
@@ -82,12 +83,23 @@ export const clients = [
     link: "https://www.homiez.rw"
   },
   {
-    image: "https://www.rwandancda.org/img/logo.png",
+    image: "https://connector.rw/asset/images/logo/logo-connector-footer.png",
+    name: "connector",
+    link: "https://connector.rw/"
+  },
+  {
+    image: "https://rwandancda.org/new/img/logos/logo.png",
     name: "rwandancda",
     link: "https://www.rwandancda.org"
   },
   {
-    image: "./assets/img/blank-logo-trans.png",
-    name: "blank"
+    image: "https://ddin.rw/assets/img/logo.png",
+    name: "ddin",
+    link: "https://www.ddin.rw"
+  },
+  {
+    image: "https://rwandadiabetes.rw/img/logo.png",
+    name: "rwanda diabetes association",
+    link: "https://rwandadiabetes.rw"
   },
 ];
