@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Rwanda Non-Communicable Disease Alliance",
     description:
       "Rwanda Non-Communicable Diseases Alliance is a unique civil society network, founded in 2016 and uniting 25 organizations ( NCDs Patients, health care professionals and youth-led organizations and private institutions) working on NCDs in Rwanda.",
-    image: "./assets/img/portfolio/rncda.png",
+    image: "./assets/img/portfolio/rwandancda.png",
     link: "https://www.rwandancda.org/",
   },
   {
@@ -109,7 +109,7 @@ export const clients = [
   },
   {
     image: "https://healthyliving.rw/assets/images/logo/logo.png",
-    name: "healthy living organization",
+    name: "Healthy living organization",
     link: "https://healthyliving.rw"
   },
 ];
