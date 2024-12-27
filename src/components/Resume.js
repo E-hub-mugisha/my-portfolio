@@ -12,7 +12,7 @@ export const Resume = () => {
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h3 class="resume-title">Summary</h3>
+                            <h3 class="resume-title text-white">Summary</h3>
                             <div class="resume-item pb-0">
                                 <h4>Eric Mugisha</h4>
                                 <p><em>A highly motivated and detail-oriented computer scientist passionate about web development and IT management. Proficient in HTML, CSS, JavaScript, React, Angular, Laravel, PHP, and MySQL. Adept at technical support, networking, and IT procurement, with strong leadership and communication skills. Committed to continuous learning and contributing to a dynamic, forward-thinking team.</em></p>
@@ -24,7 +24,7 @@ export const Resume = () => {
                                     <li><a href="https://ericmugisha.netlify.app/">Portfolio</a></li>
                                 </ul>
                             </div>
-                            <h3 class="resume-title">Education</h3>
+                            <h3 class="resume-title text-white">Education</h3>
                             <div class="resume-item">
                                 <h4>Bachelor’s in Computer Science</h4>
                                 <h5>2016 - 2021</h5>
@@ -33,9 +33,9 @@ export const Resume = () => {
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <h3 class="resume-title">Professional Experience</h3>
+                            <h3 class="resume-title text-white">Professional Experience</h3>
                             <div class="resume-item">
-                                <h4>Microsoft Dynamics 365 ERP Technical Support Engineer</h4>
+                                <h4 className='text-white'>Microsoft Dynamics 365 ERP Technical Support Engineer</h4>
                                 <h5>May 2023 - Present</h5>
                                 <p><em>Tek Experts, Kigali City, Rwanda</em></p>
                                 <ul>
@@ -45,7 +45,7 @@ export const Resume = () => {
                                 </ul>
                             </div>
                             <div class="resume-item">
-                                <h4>Full Stack Web Developer & IT Manager</h4>
+                                <h4 className='text-white'>Full Stack Web Developer & IT Manager</h4>
                                 <h5>Dec 2021 - April 2023</h5>
                                 <p><em>HOMIEZ LTD, Kigali, Rwanda</em></p>
                                 <ul>
@@ -55,7 +55,7 @@ export const Resume = () => {
                                 </ul>
                             </div>
                             <div class="resume-item">
-                                <h4>MIS Specialist Intern</h4>
+                                <h4 className='text-white'>MIS Specialist Intern</h4>
                                 <h5>July 2019 - October 2019</h5>
                                 <p><em>Local Administrative Entities Development Agency (LODA), Gasabo, Kigali, Rwanda</em></p>
                                 <ul>
