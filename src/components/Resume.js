@@ -12,9 +12,8 @@ export const Resume = () => {
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h3 class="resume-title text-white">Summary</h3>
+                            <h3 class="resume-title text-white">Eric Mugisha's Summary</h3>
                             <div class="resume-item pb-0">
-                                <h4>Eric Mugisha</h4>
                                 <p><em>A highly motivated and detail-oriented computer scientist passionate about web development and IT management. Proficient in HTML, CSS, JavaScript, React, Angular, Laravel, PHP, and MySQL. Adept at technical support, networking, and IT procurement, with strong leadership and communication skills. Committed to continuous learning and contributing to a dynamic, forward-thinking team.</em></p>
                                 <ul>
                                     <li>Kigali, Rwanda</li>
