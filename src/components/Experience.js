@@ -5,7 +5,7 @@ export const experience = () => {
         <div>
             <main class="main">
 
-                <div class="page-title aos-init aos-animate" data-aos="fade">
+                <div class="page-title ">
                     <div class="heading">
                         <div class="container">
                             <div class="row d-flex justify-content-center text-center">
@@ -33,7 +33,7 @@ export const experience = () => {
 
                         <div class="row">
 
-                            <div class="col-lg-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                            <div class="col-lg-6 " >
                                 <h3 class="resume-title">Sumary</h3>
 
                                 <div class="resume-item pb-0">
@@ -63,7 +63,7 @@ export const experience = () => {
 
                             </div>
 
-                            <div class="col-lg-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                            <div class="col-lg-6">
                                 <h3 class="resume-title">Professional Experience</h3>
                                 <div class="resume-item">
                                     <h4>Senior graphic design specialist</h4>
